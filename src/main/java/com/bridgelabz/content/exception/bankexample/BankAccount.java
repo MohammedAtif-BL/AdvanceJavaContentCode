@@ -1,4 +1,4 @@
-package com.bridgelabz.content.exception;
+package com.bridgelabz.content.exception.bankexample;
 
 public class BankAccount {
     private int accountNumber;

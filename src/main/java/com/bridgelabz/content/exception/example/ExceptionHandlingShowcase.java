@@ -1,4 +1,4 @@
-package com.bridgelabz.content.exception;
+package com.bridgelabz.content.exception.example;
 
 import java.io.IOException;
 
